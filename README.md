@@ -41,9 +41,9 @@
     <h3>Steps to Run</h3>
     <ol>
         <li>Clone the repository:<br>
-            <code>git clone https://github.com/YOUR_GITHUB_USERNAME/Criminal-Management-System.git</code></li>
+            <code>https://github.com/kapayashwanth/CriminalDataManagamentSystem.git</code></li>
         <li>Navigate to the project directory:<br>
-            <code>cd Criminal-Management-System</code></li>
+            <code>cd CriminalManagementSystem</code></li>
         <li>Compile and run using Java:<br>
             Open in IDE and execute <code>Main.java</code></li>
     </ol>
@@ -84,7 +84,7 @@
 
 <div class="section">
     <h2>GitHub Repository</h2>
-    <p><a href="" target="_blank">View on GitHub</a></p>
+    <p><a href="https://github.com/kapayashwanth/CriminalDataManagamentSystem.git" target="_blank">View on GitHub</a></p>
 </div>
 
 </body>
