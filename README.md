@@ -1,19 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Criminal Management System - README</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2 { color: #2c3e50; }
-        h1 { text-align: center; }
-        ul { padding-left: 20px; }
-        .section { margin-bottom: 20px; }
-        code { background-color: #f4f4f4; padding: 5px; border-radius: 3px; }
-    </style>
-</head>
+
 <body>
 
 <h1>Criminal Management System</h1>
