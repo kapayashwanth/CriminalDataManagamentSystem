@@ -78,7 +78,7 @@
 <div class="section">
     <h2>Contributors</h2>
     <ul>
-        <li><strong>Your Name</strong> Yashwanth</li>
+        <li><strong>Kapa Yashwanth</strong></li>
     </ul>
 </div>
 
